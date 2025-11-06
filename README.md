@@ -38,7 +38,6 @@ Highly experienced in:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandeep%20Khore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-khore-a62923161)
 [![Email](https://img.shields.io/badge/Email-sandeep12kh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeep12kh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sandeepkhore-FFFFFF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/sandeepkhore)
 
 ---
 
